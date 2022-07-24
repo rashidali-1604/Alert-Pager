@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlterPager.Service", "AlterPager.Service\AlterPager.Service.csproj", "{F99F8AA5-8D81-44F3-9210-43A207F65321}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlertPager.Tests", "AlertPager.Tests\AlertPager.Tests.csproj", "{3AE02887-4097-4222-AC76-A0BC8A4A5BB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F99F8AA5-8D81-44F3-9210-43A207F65321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F99F8AA5-8D81-44F3-9210-43A207F65321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F99F8AA5-8D81-44F3-9210-43A207F65321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F99F8AA5-8D81-44F3-9210-43A207F65321}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AE02887-4097-4222-AC76-A0BC8A4A5BB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AE02887-4097-4222-AC76-A0BC8A4A5BB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AE02887-4097-4222-AC76-A0BC8A4A5BB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AE02887-4097-4222-AC76-A0BC8A4A5BB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E303BCCB-713A-43F9-9C68-EE74C43373EE}
+	EndGlobalSection
+EndGlobal
